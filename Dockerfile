@@ -7,6 +7,7 @@ RUN apk add --no-cache \
     yq \
     git \
     openssh \
+    jq \
     bash
 
 # install yq YAML processor

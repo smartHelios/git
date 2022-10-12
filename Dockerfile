@@ -8,4 +8,5 @@ RUN apk add --no-cache \
     git \
     openssh \
     jq \
+    moreutils \
     bash
